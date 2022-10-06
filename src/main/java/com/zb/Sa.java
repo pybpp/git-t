@@ -11,6 +11,10 @@ public class Sa {
         System.out.println("hello git");
         System.out.println("hello git2");
         System.out.println("hello git3");
+        System.out.println("hello 222");
+        System.out.println("hello 222");
+        System.out.println("hello 222");
+        System.out.println("hello 222");
 
     }
 
